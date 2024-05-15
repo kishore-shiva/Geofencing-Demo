@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "454459505327",
+    "project_id": "nearbynest-fc53c",
+    "storage_bucket": "nearbynest-fc53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454459505327:android:0364db24d5456e8b0a325a",
+        "android_client_info": {
+          "package_name": "com.example.nearbynest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDXyZ-7AoS3OYmiJktaeIrFmmUBqPV0j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
